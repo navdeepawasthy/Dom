@@ -1,0 +1,28 @@
+
+.boxes{
+    height: 30vw;
+    width: 22vw;
+    border: 2px solid blue;
+    font-size: 6vw;
+    margin: 1vw;
+}
+#flexChange{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#time{
+    display: flex;
+    font-size: 50px;
+}
+.timeBox{
+    font-family: Georgia, 'Times New Roman', Times, serif
+    border: 2px solid rgb(121, 27, 27);
+    background-color: black ;
+    color: white;
+    margin-left: 1vw;
+    padding: 5px;
+}
+#ampm{
+    box-sizing: border-box;
+}
